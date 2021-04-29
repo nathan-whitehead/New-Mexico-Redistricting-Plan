@@ -5,4 +5,4 @@ The code and all files used are also included in order to keep our methods trans
 
 The code and many other resources are taken from Dr. Austin Buchanan's page which can be found [here](https://github.com/AustinLBuchanan/Districting-Examples).
 
-The Oklahoma county graph is taken from [Daryl DeFord's website](http://people.csail.mit.edu/ddeford/dual_graphs), and the Oklahoma shapefiles are taken from [Eugene Lykhovyd's website](https://lykhovyd.com/files/public/districting). Both sites contain all 50 U.S. states.
+The New Mexico county graph is taken from [Daryl DeFord's website](http://people.csail.mit.edu/ddeford/dual_graphs), and the Oklahoma shapefiles are taken from [Eugene Lykhovyd's website](https://lykhovyd.com/files/public/districting). Both sites contain all 50 U.S. states.
